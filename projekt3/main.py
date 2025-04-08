@@ -133,5 +133,6 @@ def main() -> None:
     # Step 5: Notify the user
     print(f"Data byla uložena do souboru {csv_filename}")
 
+
 if __name__ == "__main__":
     main()
